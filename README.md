@@ -1,4 +1,4 @@
-# MNISTDetection
+# MNIST Detection
 
 MNISTDetection is a simple code that utilizes least squares and singular value decomposition (SVD) to distinguish handwritten digits from the MNIST dataset.
 
